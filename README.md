@@ -169,3 +169,7 @@ For more information about the emeritus role, see the [community repository](htt
 [Tsuga]: https://github.com/tsuga-dev/opentelemetry-demo
 [Uptrace]: https://github.com/uptrace/uptrace/tree/master/example/opentelemetry-demo
 [VictoriaMetrics]: https://github.com/VictoriaMetrics-Community/opentelemetry-demo
+
+## Operations checklist
+
+See [the operations guide](OPERATIONS.md) for focused validation and troubleshooting checks.
