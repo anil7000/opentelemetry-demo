@@ -43,7 +43,7 @@ Before changing a feature flag, record its previous value and use only synthetic
 traffic. Restore it after the experiment. Do not clear all Docker data to debug
 one service; broad pruning can affect unrelated projects.
 
-## Development note
+## Attribution
 
-This troubleshooting guide was added with AI assistance. Upstream code,
+Upstream code,
 licenses and contributor attribution remain unchanged.
